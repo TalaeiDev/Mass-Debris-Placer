@@ -2,6 +2,8 @@
 
 Hello everyone, I wanted to share a tool I made in unity3D, you can use this tool to place mass debris within unity 3D with just a few clicks and then combine mesh and save mesh with generated lightmap UV on your project folder. 
 
+https://youtu.be/YuI4z1aiUfo
+
 Features  :
 
 - The Debris Prefab will be loaded from the folder path you specify in the project menu and stored in the array.
